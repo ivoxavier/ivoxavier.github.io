@@ -1,9 +1,7 @@
-{"meals":[
-    {"idMeal":"52922",
-        "strMeal":"Prawn & Fennel Bisque",
-        "strDrinkAlternate":null,
-        "strMealThumb": "https://www.themealdb.com/images/media/meals/rtwwvv1511799504.jpg",
-        "strCreativeCommonsConfirmed":null,
-        "dateModified":null}
+{"testers":[
+    {"idTesteur":"1",
+        "fakeName": "Cucamonga",
+        "testEnds":"2022-02-11",
+        "account":"developer"}
         ]
 }
