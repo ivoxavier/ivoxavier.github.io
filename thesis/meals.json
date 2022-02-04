@@ -2,6 +2,10 @@
     {"idTesteur":"1",
         "fakeName": "Cucamonga",
         "testEnds":"2022-02-11",
+        "account":"developer"},
+    {"idTesteur":"2",
+        "fakeName": "Alfredo",
+        "testEnds":"2022-02-11",
         "account":"developer"}
         ]
 }
