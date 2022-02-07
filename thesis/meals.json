@@ -1,9 +1,9 @@
 {"testers":[
-    {"idTesteur":"1",
+    {"idTesteur":"0",
         "fakeName": "Cucamonga",
         "testEnds":"2022-02-11",
         "account":"developer"},
-    {"idTesteur":"2",
+    {"idTesteur":"1",
         "fakeName": "Alfredo",
         "testEnds":"2022-02-11",
         "account":"developer"}
