@@ -1,0 +1,15 @@
+{"foods":[
+    {"product_name":"Lindt dark cocoa 85%",
+        "calories": 584,
+        "nutriscore":"e",
+        "protein":12.5,
+        "carbo":19.0,
+        "fat":46.0},
+    {"product_name":"Milka & Oreo",
+        "calories": 555,
+        "nutriscore":"e",
+        "protein": 5.4,
+        "carbo": 56.0,
+        "fat": 34.0}
+        ]
+}
