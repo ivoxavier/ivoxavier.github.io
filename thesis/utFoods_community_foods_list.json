@@ -10,6 +10,12 @@
         "nutriscore":"e",
         "protein": 5.4,
         "carbo": 56.0,
-        "fat": 34.0}
+        "fat": 34.0},
+    {"product_name":"Francesinha com Molho",
+        "calories": 1300,
+        "nutriscore":"e",
+        "protein": 63.4,
+        "carbo": 68.0,
+        "fat": 10.0}
         ]
 }
