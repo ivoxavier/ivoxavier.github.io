@@ -16,6 +16,18 @@
         "nutriscore":"e",
         "protein": 63.4,
         "carbo": 68.0,
-        "fat": 10.0}
+        "fat": 10.0},
+    {"product_name":"Burger King Whopper",
+        "calories": 555,
+        "nutriscore":"e",
+        "protein": 63.4,
+        "carbo": 58.0,
+        "fat": 20.0},
+    {"product_name":"Pizza Hut Vegan",
+        "calories": 161,
+        "nutriscore":"c",
+        "protein": 63.4,
+        "carbo": 10.0,
+        "fat": 14.0}
         ]
 }
