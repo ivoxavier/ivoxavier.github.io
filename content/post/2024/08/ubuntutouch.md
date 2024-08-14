@@ -2,7 +2,7 @@
 title: Ubuntu Touch
 subtitle: A Developer's Playground or a Consumer-Ready OS?
 date: 2024-08-14
-tags: ["UbuntuTouch", "UBPorts", "blogging"]
+tags: ["UbuntuTouch", "UBPorts"]
 ---
 
 
