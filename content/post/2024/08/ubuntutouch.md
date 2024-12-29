@@ -18,7 +18,7 @@ I recently had a conversation with a friend who used the system and found it "un
 
 While some of these limitations, like the smaller app ecosystem and challenges with notched screens, are valid, others depend on individual needs. The idea of using the command line to fix problems might seem daunting to some.
 
-However, he also praised its gesture-based navigation, minimalist design, convergence capabilities, and Waydroid (for running desktop apps).
+However, he also praised its gesture-based navigation, minimalist design, convergence capabilities, and Waydroid (for running android apps).
 
 These sentiments are common among Ubuntu Touch users. Many believe it's primarily a developer-oriented system rather than a consumer-ready one.
 
