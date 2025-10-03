@@ -168,3 +168,113 @@ h1, h2 { color: var(--cor-primaria); }
     color: var(--cor-texto);
 }
 
+#publicacoes .publication-list {
+    margin-top: 2rem;
+}
+
+#publicacoes .publication-item {
+    margin-bottom: 2.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--cor-separador-inativo);
+}
+
+
+#publicacoes .publication-item:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border-bottom: none;
+}
+
+#publicacoes .publication-item h3 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+#publicacoes .publication-item h3 a {
+    color: var(--cor-primaria);
+    text-decoration: none;
+    font-size: 1.4em;
+    transition: color 0.3s;
+}
+
+#publicacoes .publication-item h3 a:hover {
+    text-decoration: underline;
+    color: #164ca6;
+}
+
+#publicacoes .publication-meta {
+    font-size: 0.9em;
+    color: var(--cor-texto);
+    opacity: 0.7;
+    margin-bottom: 1rem;
+    font-style: italic;
+}
+
+#publicacoes .publication-excerpt {
+    margin-bottom: 0;
+}
+
+[data-theme='dark'] #publicacoes .publication-item h3 a:hover {
+    color: #3b82f6; 
+}
+
+
+#post-viewer {
+    padding-bottom: 40px;
+}
+
+#post-header h1 {
+    font-size: 2.2em;
+    margin-bottom: 0.5rem;
+}
+
+#post-header #post-subtitle {
+    font-size: 1.2em;
+    font-style: italic;
+    color: var(--cor-texto);
+    opacity: 0.8;
+    margin-top: 0;
+}
+
+#post-header #post-meta {
+    font-size: 0.9em;
+    opacity: 0.7;
+}
+
+#post-content {
+    margin-top: 2rem;
+}
+
+/* Estilos para o conteúdo gerado pelo Markdown */
+#post-content p {
+    margin-bottom: 1rem;
+    line-height: 1.7;
+}
+
+#post-content h2, #post-content h3 {
+    color: var(--cor-primaria);
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid var(--cor-separador-inativo);
+    padding-bottom: 0.5rem;
+}
+
+#post-content a {
+    color: var(--cor-primaria);
+}
+
+#post-content blockquote {
+    border-left: 4px solid var(--cor-primaria);
+    padding-left: 1rem;
+    margin-left: 0;
+    font-style: italic;
+    color: var(--cor-texto);
+    opacity: 0.9;
+}
+
+#post-content code {
+    background-color: var(--cor-fundo);
+    padding: 2px 5px;
+    border-radius: 4px;
+    font-family: 'Courier New', Courier, monospace;
+}
